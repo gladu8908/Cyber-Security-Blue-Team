@@ -88,7 +88,7 @@ I document notes, writeups, detection logic, and templates as I work through roo
 **Status date:** 2026-04-06
 
 #### Topics (in order)
-- [ ] 01. Blue Team Introduction
+- [ ] 01. Blue Team Introduction — **In progress**
 - [ ] 02. SOC Team Internals
 - [ ] 03. Core SOC Solutions
 - [ ] 04. Cyber Defence Frameworks
