@@ -1,0 +1,47 @@
+# OS / editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+
+# Windows shortcuts
+*.lnk
+
+# Vim / Emacs swap files
+*.swp
+*.swo
+*~
+\#*\#
+
+# Environment / secrets — NEVER commit these
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Build / package artifacts
+node_modules/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Archive files (avoid accidental large uploads)
+*.zip
+*.tar.gz
+*.7z
+*.rar
