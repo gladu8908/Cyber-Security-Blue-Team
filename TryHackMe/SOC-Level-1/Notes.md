@@ -19,3 +19,10 @@ Room 3 :
 Humans as Attack Vectors
 
 This room helps to understand why and how people are targeted in cyber attacks and how the SOC helps defend them.
+
+
+Room 4 :
+Systems as Attack Vectors
+
+
+ This room, i learned what the systems are, why and how threat groups target them, and what we can do as a SOC analyst to keep your company secure.
