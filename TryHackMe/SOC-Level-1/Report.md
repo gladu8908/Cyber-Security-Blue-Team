@@ -66,6 +66,14 @@ This is one of the oldest but most effective tricks in cybersecurity.
 - A file named invoice.exe is suspicious, and a user might not click it.
 - A file named invoice.pdf.exe looks exactly like invoice.pdf to the user because Windows hides the .exe at the very end.
 
+
+
+
+
+
+
+
+
 ---
 
 SOC Incident Triage Report: [Room - SOC L1 Alert Reporting]
