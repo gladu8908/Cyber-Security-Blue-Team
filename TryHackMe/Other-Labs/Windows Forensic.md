@@ -18,7 +18,7 @@ The analysis confirmed that multiple user accounts exist on the system, a file n
 The registry hives were loaded into RegistryExplorer. Because the hives were flagged as "dirty" due to uncommitted transaction logs, the .LOG1 and .LOG2 files were integrated to replay the transaction logs and create clean hives for analysis before proceeding.
 
 **3. Forensic Findings**
-As visible in the challenge dashboard from image_f0cbe0.png, the following details were successfully recovered from the registry hives:
+These are the following details were successfully recovered from the registry hives:
 
 User Account Discovery
 By analyzing the SAM (Security Accounts Manager) hive, the account structures were mapped out to see who had access to this desktop:
